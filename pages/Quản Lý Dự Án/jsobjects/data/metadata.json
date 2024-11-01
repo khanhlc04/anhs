@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "6724ae766d05d410f957f6de_b598ac9e-1d9a-4049-bffc-b929e4021c64",
+  "id": "Quản Lý Dự Án_data",
+  "unpublishedCollection": {
+    "name": "data",
+    "pageId": "Quản Lý Dự Án",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "tasks",
+        "value": "[]"
+      }
+    ]
+  }
+}

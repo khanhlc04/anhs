@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "6724ae766d05d410f957f6de_e132e0ec-3034-4355-b2a9-c0cc4c1d7189",
+  "id": "Chi Tiết Công Việc_data",
+  "unpublishedCollection": {
+    "name": "data",
+    "pageId": "Chi Tiết Công Việc",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "task",
+        "value": "{}"
+      },
+      {
+        "name": "departments",
+        "value": "[]"
+      },
+      {
+        "name": "employee",
+        "value": "[]"
+      },
+      {
+        "name": "task_children",
+        "value": "[]"
+      },
+      {
+        "name": "task_parent",
+        "value": "{}"
+      }
+    ]
+  }
+}

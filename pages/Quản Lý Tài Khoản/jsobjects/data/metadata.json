@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "6724ae766d05d410f957f6de_d773c5c4-61a9-4ef7-8027-9fbc0f5934c5",
+  "id": "Quản Lý Tài Khoản_data",
+  "unpublishedCollection": {
+    "name": "data",
+    "pageId": "Quản Lý Tài Khoản",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "role",
+        "value": "[]"
+      }
+    ]
+  }
+}

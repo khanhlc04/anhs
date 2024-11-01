@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "6724ae766d05d410f957f6de_f414e3b1-dc8d-4af7-971b-9896dd551352",
+  "id": "Tổng Quan_data",
+  "unpublishedCollection": {
+    "name": "data",
+    "pageId": "Tổng Quan",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "tasks",
+        "value": "[]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "6724ae766d05d410f957f6de_90f01f0e-80c5-4942-a09a-379729d41ba9",
+  "id": "Thêm Mới Công Việc_data",
+  "unpublishedCollection": {
+    "name": "data",
+    "pageId": "Thêm Mới Công Việc",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "leaders",
+        "value": "[]"
+      },
+      {
+        "name": "departments",
+        "value": "[]"
+      },
+      {
+        "name": "employee",
+        "value": "[]"
+      }
+    ]
+  }
+}
